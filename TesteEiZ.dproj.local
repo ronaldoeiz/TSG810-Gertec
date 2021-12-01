@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/13 13:02:54.000.622,=C:\Users\DevPhp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/14 13:53:05.000.750,=C:\Users\DevPhp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/19 10:10:36.000.589,=C:\Users\DevPhp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/30 16:02:20.000.704,=C:\Users\DevPhp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/30 16:11:53.000.926,C:\Users\DevPhp\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\@dev\Projetos\G810\uMain.pas</Transaction>
+    <Transaction>2021/11/30 16:11:53.000.926,C:\Users\DevPhp\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\@dev\Projetos\G810\uMain.fmx</Transaction>
+    <Transaction>2021/11/30 16:12:17.000.109,C:\Users\DevPhp\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\@dev\Projetos\G810\TesteEiZ.dproj</Transaction>
+    <Transaction>2021/11/30 16:43:43.000.065,=C:\@dev\Projetos\G810\ACBrSetting.pas</Transaction>
+    <Transaction>2021/12/01 15:10:33.140,C:\@dev\Projetos\G810\ACBrSetting.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="VS3319A861629" Android64="AVD_for_4_WVGA_Nexus_S"/>
+	</ActiveMobileDevice>
+</BorlandProject>
